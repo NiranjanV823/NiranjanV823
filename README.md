@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan Verma</h1>
 <h3 align="center">A passionate AI/ML developer</h3>
 
-- 🔭 I’m currently working on [non-invasive Hb detection](https://github.com/NiranjanV823/DH307---Anemia-Detection)
-
-- 🌱 I’m currently learning **Diffusion Models.**
-
-- 💬 Ask me about **Deep Learning and AI.**
-
+Undergraduate Student at IIT Bombay
 - 📫 How to reach me **niranjanverma823@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
