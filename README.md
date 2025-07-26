@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan Verma</h1>
 
 Undergraduate Student at IIT Bombay
-- 🌱 I’m currently learning **Deep Learning & NLP.**
+- 🌱 I’m currently learning **Langchain.**
 - 📫 How to reach me **niranjanverma823@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
